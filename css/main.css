@@ -442,3 +442,10 @@ font-weight: 500;
 line-height: 19px;
 letter-spacing: 0em;
 }
+/* lastest new section */
+.lastest-new-section {
+  width: 100%;
+  padding-right: 120px;
+  margin-top: 160px;
+  height: auto;
+}
