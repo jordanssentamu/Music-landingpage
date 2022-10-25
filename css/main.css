@@ -106,4 +106,16 @@ body {
     linear-gradient(0deg, #ffffff, #ffffff);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  margin-bottom: 42px;
+}
+.music-enjoyment-text {
+  height: 90px;
+  width: 575px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  color: rgba(222, 222, 222, 1);
+  margin-bottom: 20px;
 }
