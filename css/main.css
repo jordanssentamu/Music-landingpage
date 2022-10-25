@@ -225,3 +225,16 @@ main {
   left: 480px;
   top: 1561px;
 }
+.discover-magic-music-1-text1 {
+  height: 30px;
+  width: 235px;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
