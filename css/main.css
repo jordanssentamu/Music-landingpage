@@ -79,3 +79,31 @@ body {
   width: 100%;
   height: auto;
 }
+.music-enjoyment-heading {
+  height: 227px;
+  width: 791px;
+  font-family: Nova Slim;
+  font-size: 96px;
+  font-weight: 400;
+  line-height: 116px;
+  letter-spacing: 0em;
+  text-align: left;
+  font-family: Philosopher;
+  font-size: 96px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 108px;
+  letter-spacing: 0em;
+  margin-top: 149px;
+}
+.music-enjoyment-heading-span {
+  background: linear-gradient(
+      263.04deg,
+      #8491c1 44.56%,
+      #ec8ebd 96.28%,
+      rgba(236, 142, 189, 0) 103.5%
+    ),
+    linear-gradient(0deg, #ffffff, #ffffff);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
