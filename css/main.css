@@ -268,3 +268,28 @@ main {
   margin-top: 20px;
   gap: 27.69px;
 }
+/* main-section-2 */
+.change-the-world-section {
+  margin-top: 163.69px;
+  width: 100%;
+  padding-right: 120px;
+  height: auto;
+}
+.change-the-world-wrapper1 {
+  display: flex;
+}
+.change-the-world-wrapper1-heading {
+  height: 186px;
+width: 600px;
+font-family: Philosopher;
+font-size: 48px;
+font-weight: 700;
+line-height: 62px;
+letter-spacing: 0em;
+color: #FFFFFF;
+margin-bottom: 20px;
+
+
+
+
+}
