@@ -449,3 +449,16 @@ letter-spacing: 0em;
   margin-top: 160px;
   height: auto;
 }
+.lastest-new-section-heading {
+  height: 62px;
+width: 335px;
+font-family: Philosopher;
+font-size: 48px;
+font-weight: 700;
+line-height: 62px;
+letter-spacing: 0em;
+color: rgba(255, 255, 255, 1);
+margin-bottom: 48px;
+
+
+}
