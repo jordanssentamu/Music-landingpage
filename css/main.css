@@ -119,3 +119,6 @@ body {
   color: rgba(222, 222, 222, 1);
   margin-bottom: 20px;
 }
+.music-enjoyment-button-wrapper {
+  display: flex;
+}
