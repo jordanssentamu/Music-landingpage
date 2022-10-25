@@ -173,7 +173,7 @@ body {
 /* main */
 main {
   width: 100%;
-  height: auto;
+  height: 1000px;
 }
 .discover-magic-heading {
   margin-top: 160px;
@@ -200,7 +200,28 @@ main {
   color: rgba(222, 222, 222, 1);
   margin-top: 20px;
   margin-left: 146px;
+  margin-bottom: 48px;
 }
 .discover-magic-music-wrapper {
   display: flex;
+}
+.discover-magic-music-1 {
+  height: 682.30615234375px;
+  width: 536px;
+}
+.discover-magic-music-1 {
+  height: 535px;
+  width: 536px;
+  object-fit: contain;
+}
+.discover-magic-music-1-svg-wrapper {
+  position: absolute;
+  height: 83px;
+  width: 151px;
+  background-color: #8d91c0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 480px;
+  top: 1561px;
 }
