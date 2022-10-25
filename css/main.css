@@ -9,8 +9,7 @@ html {
 body {
   background-color: rgba(19, 19, 19, 1);
   padding-left: 120px;
-  padding-right: 122.69px;
-  font-family: "Inter", "Nova Slim", "Philosopher";
+    font-family: "Inter", "Nova Slim", "Philosopher";
   font-size: 1.6rem;
   color: rgba(194, 194, 194, 1);
   padding-top: 40px;
@@ -19,6 +18,7 @@ body {
   width: 100%;
   height: auto;
   display: flex;
+  padding-right: 122.69px;
 }
 .logo-section {
   margin-right: 100px;
@@ -175,6 +175,9 @@ main {
   width: 100%;
   height: 1000px;
 }
+.discover-magic-section {
+
+}
 .discover-magic-heading {
   margin-top: 160px;
   height: 54px;
@@ -202,19 +205,25 @@ main {
   margin-left: 146px;
   margin-bottom: 48px;
 }
-.discover-magic-music-wrapper {
+ .discover-magic-music-wrapper {
   display: flex;
-}
+  height: 700px;
+  gap: 20px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+} 
+
 .discover-magic-music-1 {
   height: 682.30615234375px;
   width: 536px;
 }
 .discover-magic-music-1 {
   height: 535px;
-  width: 536px;
+  width: 458px;
   object-fit: contain;
 }
-.discover-magic-music-1-svg-wrapper {
+.discover-magic-music-1-svg-wrapper,
+.discover-magic-music-1-svg-wrapper2 {
   position: absolute;
   height: 83px;
   width: 151px;
@@ -222,8 +231,8 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  left: 480px;
-  top: 1561px;
+  left: 427px;
+  top: 1522px;
 }
 .discover-magic-music-1-text1 {
   height: 30px;
@@ -235,7 +244,7 @@ main {
   letter-spacing: 0em;
   text-align: center;
   color: rgba(255, 255, 255, 1);
-  margin-top: 30px;
+  margin-top: -15px;
   margin-bottom: 20px;
 }
 .discover-magic-music-1-tickets-wrapper {
@@ -253,4 +262,9 @@ main {
   color: rgba(255, 255, 255, 1);
   margin-left: 7px;
   margin-top: 7px;
+}
+.discover-magic-music-1-svgthumb-container {
+  display: flex;
+  margin-top: 20px;
+  gap: 27.69px;
 }
