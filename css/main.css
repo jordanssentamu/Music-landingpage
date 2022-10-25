@@ -201,3 +201,6 @@ main {
   margin-top: 20px;
   margin-left: 146px;
 }
+.discover-magic-music-wrapper {
+  display: flex;
+}
