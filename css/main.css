@@ -21,7 +21,7 @@ body {
   display: flex;
 }
 .logo-section {
-  margin-right: 160px;
+  margin-right: 100px;
 }
 .logo-img {
   height: 49px;
@@ -34,8 +34,9 @@ body {
   gap: 50px;
 }
 .nav-bar {
-  margin-right: 160px;
+  margin-right: 100px;
   width: 100%;
+  margin-top: 15px;
 }
 .nav-bar-list li {
   height: 19px;
@@ -48,4 +49,28 @@ body {
 .nav-bar-list li a {
   text-decoration: none;
   color: rgba(194, 194, 194, 1);
+}
+.search-icon {
+  margin-right: -62px;
+  margin-top: 13.44px;
+}
+.search-button-section {
+  display: flex;
+}
+.header-button {
+  height: 39px;
+  border-radius: 9px;
+  width: 91px;
+
+  /* background: linear-gradient(180deg, #e88ebe 0%, #7a90bf 100%); */
+  border: 1px solid #e88ebe;
+  color: white;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0em;
+  margin-left: 184px;
+  background: rgba(19, 19, 19, 1);
+  margin-top: 5px;
 }
