@@ -170,3 +170,8 @@ body {
   top: 543px;
   left: 687px;
 }
+/* main */
+main {
+  width: 100%;
+  height: auto;
+}
