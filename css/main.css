@@ -122,6 +122,8 @@ body {
 }
 .music-enjoyment-button-wrapper {
   display: flex;
+  gap: 20px;
+  margin-bottom: 86px;
 }
 .music-enjoyment-button {
   border: none;
@@ -130,4 +132,18 @@ body {
   border-radius: 9px;
   background: linear-gradient(181.53deg, #de8ebd 1.3%, #72c9eb 108.25%);
   margin-left: 0px;
+}
+.music-enjoyment-svg-subtext-wrapper {
+  display: flex;
+  margin-top: 16.5px;
+  gap: 10px;
+}
+.music-enjoyment-subtext {
+  height: 19px;
+  width: 111px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0em;
 }
