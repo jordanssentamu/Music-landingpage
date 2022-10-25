@@ -276,7 +276,8 @@ main {
   height: auto;
 }
 .change-the-world-wrapper1 {
-  display: flex;
+  width: 100%;
+  height: auto;
 }
 .change-the-world-wrapper1-heading {
   height: 186px;
@@ -288,6 +289,18 @@ line-height: 62px;
 letter-spacing: 0em;
 color: #FFFFFF;
 margin-bottom: 20px;
+}
+.change-the-world-wrapper1-text {
+  height: 78px;
+width: 468px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+color: 
+rgba(222, 222, 222, 1);
+margin-bottom: 30px;
 
 
 
