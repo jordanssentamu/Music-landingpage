@@ -404,5 +404,20 @@ display: flex;
 width: 683px;
 object-fit: contain;
 margin-top: 160px;
+}
+.premiere-song-section-heading {
+  height: 124px;
+width: 426px;
+font-family: Philosopher;
+font-size: 48px;
+font-weight: 700;
+line-height: 62px;
+letter-spacing: 0em;
+text-align: left;
+color: 
+rgba(255, 255, 255, 1);
+margin-top: 250px;
+
+
 
 }
