@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  background-color: rgba(19, 19, 19, 1);
+  padding-left: 120px;
+  padding-right: 122.69px;
+  font-family: "Inter", "Nova Slim", "Philosopher";
+  font-size: 1.6rem;
+  color: rgba(194, 194, 194, 1);
+}
