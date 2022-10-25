@@ -392,4 +392,17 @@ object-fit: contain;
   left:971px;
   top: 2354px;
 }
+/* premiere-song-section */
+.premiere-song-section {
+  height: 717px;
+width: 100%;
+padding-right: 120px;
+display: flex;
+}
+.premiere-song-section-img {
+  height: 717px;
+width: 683px;
+object-fit: contain;
+margin-top: 160px;
 
+}
