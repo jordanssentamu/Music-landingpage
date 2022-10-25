@@ -126,7 +126,7 @@ body {
   gap: 20px;
   margin-bottom: 59px;
 }
-.music-enjoyment-button {
+.music-enjoyment-button, .change-the-world-wrapper1-button {
   border: none;
   height: 51px;
   width: 153px;
@@ -175,9 +175,7 @@ main {
   width: 100%;
   height: 1000px;
 }
-.discover-magic-section {
 
-}
 .discover-magic-heading {
   margin-top: 160px;
   height: 54px;
@@ -301,8 +299,19 @@ letter-spacing: 0em;
 color: 
 rgba(222, 222, 222, 1);
 margin-bottom: 30px;
-
-
+}
+.change-the-world-wrapper1-button {
+  height: 51px;
+width: 137px;
+border-radius: 9px;
+margin-bottom: 80px;
+color: 
+rgba(0, 0, 0, 1);
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
 
 
 }
