@@ -268,7 +268,7 @@ main {
 }
 /* main-section-2 */
 .change-the-world-section {
-  margin-top: 163.69px;
+  margin-top: 81.69px;
   width: 100%;
   padding-right: 120px;
   height: auto;
@@ -318,6 +318,7 @@ margin-bottom:80px ;
   height: 100px;
 width: 385px;
 display: flex;
+gap: 75px;
 }
 .change-the-world-wrapper1-1i-text1 {
   height: 44px;
