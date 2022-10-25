@@ -79,6 +79,7 @@ body {
 .hero-section {
   width: 100%;
   height: auto;
+  display: flex;
 }
 .music-enjoyment-heading {
   height: 227px;
@@ -123,7 +124,7 @@ body {
 .music-enjoyment-button-wrapper {
   display: flex;
   gap: 20px;
-  margin-bottom: 86px;
+  margin-bottom: 59px;
 }
 .music-enjoyment-button {
   border: none;
@@ -146,4 +147,26 @@ body {
   font-weight: 500;
   line-height: 19px;
   letter-spacing: 0em;
+}
+.music-enjoyment-extraimg {
+  height: 23.098270416259766px;
+  width: 359.0567932128906px;
+  object-fit: contain;
+}
+.hero-enjoyment-imgs2 {
+  height: 493.73070110695744px;
+  width: 410.45111083984375px;
+  object-fit: contain;
+  position: absolute;
+  left: 774px;
+  top: 178px;
+  z-index: -1;
+}
+.hero-enjoyment-imgs1 {
+  height: 194px;
+  width: 294px;
+  object-fit: contain;
+  position: absolute;
+  top: 543px;
+  left: 687px;
 }
