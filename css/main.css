@@ -587,5 +587,9 @@ text-align: center;
 color: #FFFFFF;
 margin-bottom: 48px;
 margin-left: 200px;
-
+}
+.About-us-details {
+  width: 90%;
+  height: auto;
+  display: flex;
 }
