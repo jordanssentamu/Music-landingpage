@@ -593,3 +593,19 @@ margin-left: 200px;
   height: auto;
   display: flex;
 }
+.About-us-details-1-1 {
+  height: 238px;
+width: 382.3116760253906px;
+left: 0px;
+top: 56px;
+border-radius: 10px;
+background:  #2A2A2A;;
+
+}
+.About-us-details-1-img {
+  margin-left: 141px;
+  margin-bottom: -46px;
+  border-radius: 50px;
+  border: 7px solid rgba(19, 19, 19, 1);
+
+}
