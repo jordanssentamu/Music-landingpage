@@ -465,13 +465,18 @@ margin-bottom: 48px;
   width: 100%;
   display: flex;
 }
-.lastest-new-section-card-1 {
+.lastest-new-section-card-1, .lastest-new-section-card-2 {
   height: 526px;
 width: 381px;
 left: 120px;
 top: 3985px;
 border-radius: 0px;
-background-image: url(/img/Rectangle\ 3185.png);
+}
+.lastest-new-section-card-1 {
+  background-image: url(/img/Rectangle\ 3185.png);
+}
+.lastest-new-section-card-2  {
+  background-image: url(/img/Rectangle\ 3186.png);
 }
 .lastest-new-section-card-1-text-1 {
   height: 29px;
@@ -523,3 +528,5 @@ letter-spacing: 0em;
 color: #ffffff;
 margin-left: 20px;
 }
+
+/* lastest-new-section-card-2 */
