@@ -592,10 +592,11 @@ margin-left: 200px;
   width: 90%;
   height: auto;
   display: flex;
+  gap: 27px;
 }
 .About-us-details-1-1 {
-  height: 238px;
-width: 382.3116760253906px;
+  height: 251px;
+width: 321.3116760253906px;
 left: 0px;
 top: 56px;
 border-radius: 10px;
@@ -603,7 +604,7 @@ background:  #2A2A2A;;
 
 }
 .About-us-details-1-img {
-  margin-left: 141px;
+  margin-left: 118px;
   margin-bottom: -46px;
   border-radius: 50px;
   border: 7px solid rgba(19, 19, 19, 1);
@@ -611,7 +612,7 @@ background:  #2A2A2A;;
 }
 .About-us-details-1-1-text-1 {
   height: 29px;
-width: 156.12728881835938px;
+width: auto;
 font-family: Inter;
 font-size: 24px;
 font-weight: 600;
@@ -619,7 +620,7 @@ line-height: 29px;
 letter-spacing: 0em;
 color: #FFFFFF;
 padding-top: 49px;
-margin-left: 113px;
+margin-left: 95px;
 margin-bottom: 31px;
 
 }
@@ -632,18 +633,18 @@ font-weight: 400;
 line-height: 18px;
 letter-spacing: 0em;
 color: #E3E3E3;
-margin-left: 110px;
+margin-left: 93px;
 margin-bottom: 14px;
 }
 .About-us-details-1-1-text-3 {
   height: 104px;
-width: 348px;
+width: 275px;
 font-family: Inter;
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
 letter-spacing: 0em;
 text-align: center;
-margin-left: 17px;
+margin-left: 22px;
 
 }
