@@ -568,4 +568,24 @@ letter-spacing: 0em;
 color: #FFFFFF;
 margin-left: 20px;
 }
-/*  lastest-new-section-card-3  */
+/* About-us-section */
+.About-us-section {
+  width: 100%;
+  padding-right: 120px;
+  height: auto;
+  margin-top: 160px;
+}
+.About-us-heading {
+  height: 62px;
+width: 557px;
+font-family: Philosopher;
+font-size: 48px;
+font-weight: 700;
+line-height: 62px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;
+margin-bottom: 48px;
+margin-left: 200px;
+
+}
